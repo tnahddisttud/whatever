@@ -6,7 +6,7 @@ body{
 }
 header{
   margin: 0;
-  background: url(/banner.jpg);
+  background: url(banner.jpg);
   text-align: center;
   color: #ddf3f5;
 }
